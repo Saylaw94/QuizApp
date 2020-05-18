@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+<!--    <color name="colorAccent">#03DAC5</color>-->
+    <color name="blocks">#707AB5</color>
+    <color name="blocks_txt_color">#ffffff</color>
+<!--    <color name="blocks_answer">#ffffff</color>-->
+
+
+</resources>

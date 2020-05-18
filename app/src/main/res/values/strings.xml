@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question">Questions</string>
+    <string name="hint1">Javobni yozing</string>
+    <string name="title">ANDROID QUIZ</string>
+    <string name="question1">1) Which of those does not have index based structure?</string>
+    <string name="answer1">Map</string>
+    <string name="answer2">Set</string>
+    <string name="answer3">List</string>
+    <string name="answer4">implements</string>
+    <string name="answer5">inherits</string>
+    <string name="answer6">extends</string>
+    <string name="answer7">int $a7</string>
+    <string name="answer8">int _a7</string>
+    <string name="answer9">int 7a</string>
+    <string name="answer10">float</string>
+    <string name="answer11">String</string>
+    <string name="answer12">bool</string>
+
+    <string name="question2">2) Which keyword is used to inherit one class to another?</string>
+    <string name="question3">3) Select all variables declared wrong?</string>
+
+    <string name="question4">4) Which of these data types can obtain numeric values?</string>
+    <string name="question5">5) Write the keyword to define constant variable?</string>
+    <string name="question6">5) What is a completely abstract class called?</string>
+</resources>
