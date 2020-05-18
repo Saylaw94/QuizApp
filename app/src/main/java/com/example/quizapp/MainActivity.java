@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     int t = 0, f = 0;
     int percent= 17;
 
-     String s1 = "final";
+     final String s1 = "final";
      final String s2 = "interface";
 
     @Override
